@@ -32,5 +32,25 @@
       "stbg": true
     },
     "submittedBefore": "yes"
+  },
+  {
+    "id": 1759347214073,
+    "projectName": "STBG",
+    "jurisdiction": "j",
+    "routeNumber": "j",
+    "streetName": "j",
+    "from": "jj",
+    "to": "jjj",
+    "description": "jjjj",
+    "upc": "jjjj",
+    "funding": {
+      "cmaq": true,
+      "cr": false,
+      "stbg": true
+    },
+    "submittedBefore": "yes",
+    "projectType": "Highway",
+    "nepaReview": "Environmental Assessment (EA)",
+    "functionalClassification": "Major Collector"
   }
 ]
